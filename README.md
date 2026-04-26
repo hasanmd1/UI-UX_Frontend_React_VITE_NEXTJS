@@ -1,4 +1,4 @@
-# 🚀 Frontend Projects Overview
+# Frontend Projects Overview
 
 Welcome to my frontend design portfolio! This repository contains four one-page frontend designs that I did while learning React, NextJS and Vite. across different industries: **Logistics, Restaurant, Cryptocurrency, and Real Estate**. I have finished each project in this repository and deployed them for easy access.
 
